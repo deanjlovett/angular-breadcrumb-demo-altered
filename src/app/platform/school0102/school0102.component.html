@@ -1,0 +1,18 @@
+<p>Top of school0102 html</p>
+<div *ngIf="checkRouteUrl()">
+  <xng-breadcrumb [separator]="iconTemplate"></xng-breadcrumb>
+  <ng-template #iconTemplate>
+    <mat-icon>chevron_right</mat-icon>
+  </ng-template>
+
+  <div>
+    <button routerLink="class010201">Class 01 02 01</button>
+  </div>
+  <div>
+    <button routerLink="class010202">Class 01 02 02</button>
+  </div>
+</div>
+
+<router-outlet></router-outlet>
+<!-- Other HTML Elements -->
+<p>Bottom of school0102 html</p>
