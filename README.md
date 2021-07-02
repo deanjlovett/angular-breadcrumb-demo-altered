@@ -6,3 +6,4 @@ This is a very simple project to show how to add breadcrumbs to your Angular app
 
 [demo-video](breadcrumb-demo.gif)
 
+test add to readme file
