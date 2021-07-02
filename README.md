@@ -5,3 +5,4 @@ This is a very simple project to show how to add breadcrumbs to your Angular app
 ### Project Demo
 
 [demo-video](breadcrumb-demo.gif)
+
